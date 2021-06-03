@@ -1,0 +1,2 @@
+*.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+simplelink_cc2640r2_sdk_5_10_00_02.* filter=lfs diff=lfs merge=lfs -text
